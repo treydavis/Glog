@@ -1,0 +1,4 @@
+node_modules
+config/default.json
+config/runtime.json
+blog_repo/
